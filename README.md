@@ -1,6 +1,6 @@
 ZScore
 
-Background:  'X' runs a number of online scholarship applications. Once applications are in,'X' holds panels in which applications are read and scored by panelists.  These scores are a crucial part of determining the success of applications.  ASEE uses z-scores to calibrate the raw data into a final product.  This task involves doing a portion of that.  Information about z-scores (aka standard scores) can be found here: http://en.wikipedia.org/wiki/Standard_score
+Background:  'X' runs a number of online scholarship applications. Once applications are in,'X' holds panels in which applications are read and scored by panelists.  These scores are a crucial part of determining the success of applications.  'X' uses z-scores to calibrate the raw data into a final product.  This task involves doing a portion of that.  Information about z-scores (aka standard scores) can be found here: http://en.wikipedia.org/wiki/Standard_score
 
 Task: Take in a CSV of raw scoring data, calculate the z-score for each applicant, and output a ranked report based on the calculated z-score. 
 
